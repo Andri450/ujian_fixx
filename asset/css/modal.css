@@ -1,0 +1,117 @@
+.modal-open {
+  padding-right: 0px !important; 
+}
+.modal-content{
+  font-family: pop-medium;
+  padding: 25px 0px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: none;
+  border-radius: 7px;
+}
+.title-coise {
+  padding: 7px 0px;
+  margin-bottom: 8px;
+}
+.coise {
+  line-height: 1.6;
+  color: #293b5f;
+  padding-top: 20px;
+  font-size: 15px;
+  letter-spacing: 0.4px;
+}
+.d {
+  background-color: #e43f5a;
+  color: #fff;
+  font-size: 17px;
+  border: none;
+  padding: 5px 12px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 8px;
+  box-shadow: 3px 3px 11px rgba(228, 63, 90, 0.25);
+}
+
+.button-close {
+  margin-right: -16px;
+  outline: none;
+}
+.button-backup {
+  margin-top: -25px;
+}
+/* alert-logout */
+.img-ilus {
+  text-align: center;
+  padding: 15px;
+  margin-top: 5px;
+}
+.img-logout {
+  margin-top: 5px;
+}
+.button-share {
+  background-color: #e43f5a;
+  color: #fff;
+  text-decoration: none;
+  padding: 8px;
+  font-size: 15px;
+  border-radius: 4px;
+  box-shadow: 3px 3px 11px rgba(228, 63, 90, 0.25);
+}
+.button-share a {
+  color: #fff;
+  text-decoration: none;  
+  letter-spacing: 0.3px;
+}
+.button-share:nth-child(2) {
+  background-color: transparent;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}
+.other-text {
+  color: #5F78EA !important;
+}
+/* alert-logout */  
+
+/* alert ubah password */
+.md-ch-pass{
+  padding-bottom: 0px;
+}
+.cs-p-ch-pass {
+  margin-top: 15px;
+}
+.cs-btn-ch-pass {
+  margin-top: -15px;
+  float: right;
+}
+.form-ch-pass {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.label-ch-pass {
+  font-weight: 100;
+  color: #8d97ad;
+  font-size: 15px;
+  font-family: pop-medium;
+  line-height: 1.8;
+  letter-spacing: 0.3px;
+}
+.form-control {
+  margin-bottom: 24px;
+  height: 36px;
+  border: 1px solid #cccccc;
+  color: #293b5f !important;
+  background: #fff;
+  box-shadow: none;
+}
+.form-control:active,.form-control:focus {
+  border: 1px solid #cccccc;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.modal-footer {
+  border-top: 1px solid #f5f5f5;
+  padding: 13px 15px;
+  background-color: #f5f5f5;
+  border-bottom-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+/* alert ubah password */
